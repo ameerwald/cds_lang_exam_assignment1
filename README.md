@@ -39,7 +39,7 @@ Then save it in the following format:
 ## To run the scripts 
 
 1. Clone the repository, either on ucloud or something like worker2
-2. From the command line, at the /cds_vis_exam_assignment1/ folder level, run the following lines of code. 
+2. From the command line, at the /cds_lang_exam_assignment1/ folder level, run the following lines of code. 
 
 This will create a virtual environment, install the correct requirements.
 ``` 
